@@ -1,61 +1,54 @@
-# #FazParteDoMeuDia
+﻿  # Inovação e Tecnologia
 
----
+    ---
 
-# Cliente
+    # Metas
+    .left-column[
+    * Seções de trocas de conhecimento e estudos
+    * Eventos assistidos
+    * Tecnologias novas implementadas
+    ]
+    .right-column.imagem[![](imgs/logo-rodape.png)]
 
-* Mais de 350 anos
-* 170.000 funcionários
-* Brasilit, Telha Norte, Weber Quartzolit
+    ---
 
----
+    # Seções de trocas de conhecimento e estudos
+    .left-column[
+    * Fonte de dados será o TeamWork
+    * Meta de acordo com numero de colabores (12) (0,5h/mês cada)
+    * Meta Atingida com total de 6 horas gastas.
+    ]
 
-# Projeto
 
-* Campanha promocional nacional
-* Duração de 1 ano
-* Homologada pela caixa
+    ---
 
----
+    # Eventos assistidos
+    * Fonte de dados serão inscrições nos eventos.
+    * Meta de acordo com numero de colabores (12) (2 Inscrições/mês)
+    * Meta atingida com 2 Inscrições.
 
-# Pontos Críticos
-* Drupal
-* Integrações
-* Prazo
-* Envolvidos (MZ", Squid, ESV, Joy, Gigya Saint Gobain e Navegar)
+    ---
 
----
+    # Tecnologias novas implementadas
+    * Fonte de dados documentação basica dos projetos.
+    * Meta de acordo com numero de projetos (2 Novas tecnologias/mês)
+    * Meta atingida com 2 novas implementações.
 
-# Soluções
-* Drupal
-  * Contratação de um consultor
-  * Estudo
-* Integrações
-  * Leitura da documentação
-  * Contato Desenvolvedor / Desenvolvedor
-* Prazo
-  * Formalização de todos os passos dados
-  * Divisão de responsabilidades
-  * Fidelidade ao escopo
-* Envolvidos
-  * Comunicação
-  * Comunicação
-  * Comunicação
+    ---
 
----
+    # Indicador Tecnologia e inovação
+    ### Escala:
 
-# Aprendizado
-* Stack Overflow vs Codigo Fonte / Documentação
-* Networking
-* Comunicação
-* Parceria
+    Pontuação  | Descrição
+    :---------- |:----------
+    0  | Sem evolução
+    1  | Ruim
+    2  | Bom
+    3  | Muito Bom
 
----
+    ---
 
-# Resultado
-## www.fazpartedomeudia.com.br
+    class: center, middle
 
----
-
-# Desafio
-## Quanto você conhece sobre o seu job atual?
+    # Resultados Outubro/2016
+    #### https://docs.google.com/spreadsheets/d/1OsXF2oWy7n009XrI-U2PoRloPtoh-Y6xcbycF0XjSk8/edit?usp=sharing
